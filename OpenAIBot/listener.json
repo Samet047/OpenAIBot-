@@ -1,0 +1,12 @@
+{
+    "listeners": [
+      {
+        "event": "thread_post_save",
+        "callback_class": "OpenAIBot\\Listener",
+        "callback_method": "onNewThread",
+        "hint": "",
+        "active": true
+      }
+    ]
+  }
+  

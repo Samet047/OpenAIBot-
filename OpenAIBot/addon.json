@@ -1,0 +1,12 @@
+{
+    "legacy_addon_id": "",
+    "title": "OpenAI Bot",
+    "description": "XenForo için OpenAI API ile otomatik yanıt veren bot",
+    "version_id": 1000010,
+    "version_string": "1.0.0",
+    "dev": "Samet",
+    "addon_id": "OpenAIBot",
+    "namespace": "OpenAIBot",
+    "json_hash": ""
+  }
+  
